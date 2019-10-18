@@ -1,6 +1,6 @@
 # Resource Links
 ## Our Study Group on codebuddies.org
-* https://codebuddies.org/study-group/a-curious-moon/dkagoHoz9x5g5nJj6
+* **https://codebuddies.org/study-group/a-curious-moon/dkagoHoz9x5g5nJj6**
 ## Links As provided by
 
 <details><summary><b>BethanyG</b></summary>
