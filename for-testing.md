@@ -16,3 +16,12 @@
 
 </p>
 </details>
+
+<details><summary><b>matari</b></summary>
+<p>
+
+* Changing The Time Zone In Linux (Command Line) – Linux Academy  
+https://linuxacademy.com/blog/linux/changing-the-time-zone-in-linux-command-line/
+
+</p>
+</details>
